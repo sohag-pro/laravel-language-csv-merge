@@ -1,0 +1,4 @@
+﻿Key,Message (EN),Mensaje (ES)
+otp_verify_success,User verification created successfully.,Verificación del usuario creada correctamente.
+otp_verify_error,Invalid cellphone number.,Número de móvil incorrecto.
+log_out,User logged out successfully.,El usuario se ha desconectado correctamente.
